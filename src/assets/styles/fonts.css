@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Inter_custom";
+  font-weight: 400;
+  src: '../fonts/Inter_24pt-Rgulear.ttf';
+}
+
+@font-face {
+  font-family: "Inter_custom";
+  font-weight: 500;
+  src: '../fonts/Inter_24pt-Medium.ttf';
+}
+
+@font-face {
+  font-family: "Inter_custom";
+  font-weight: 600;
+  src: '../fonts/Inter_24pt-SemiBold.ttf';
+}
+
+@font-face {
+  font-family: "Inter_custom";
+  font-weight: 700;
+  src: '../fonts/Inter_24pt-Bold.ttf';
+}
+
+@font-face {
+  font-family: "Inter_custom";
+  font-weight: 800;
+  src: '../fonts/Inter_24pt-Black.ttf';
+}
