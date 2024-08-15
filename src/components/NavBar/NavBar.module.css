@@ -1,0 +1,25 @@
+.header{
+    border-bottom: 1px dashed var(--section-color);
+    margin-bottom: 20px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding-block: 20px;
+
+
+}
+
+.input_block {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
